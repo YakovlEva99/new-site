@@ -561,6 +561,34 @@ color: #D67E34;
 .burger-menu {
   display: none;
 }
+.burger-menu-list a{
+  
+  color: #fff;
+  text-decoration: none;
+  padding-bottom: 1em;
+ 
+  
+}
+.burger-menu-list{
+  position: absolute;
+  display: none;
+}
+.ListBtn {
+  display: block;
+  
+}
+.disp {
+  display: none;
+}
+/* .block {
+  display: block;
+} */
+button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
 
 
 
@@ -623,6 +651,7 @@ color: #D67E34;
 .burgers {
   justify-content: center;
 }
+
   
 
 
